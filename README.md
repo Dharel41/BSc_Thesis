@@ -8,5 +8,5 @@ digital representation of electron backscatter diffraction experimental results.
 The algorithm analyze orientation imaging map from EBSD.
 
 # TECHNOLOGIES
-* Java 8
+* Java 9
 * JavaFX
